@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.10.6)  5 MAR 2016 22:10
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.10.6)  6 MAR 2016 13:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -651,14 +651,14 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includefoot 
-* h-part:(L,W,R)=(46.94704pt, 512.14963pt, 38.41121pt)
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
 * v-part:(T,H,B)=(38.41121pt, 768.22443pt, 38.41121pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=512.14963pt
+* \textwidth=483.69687pt
 * \textheight=738.22443pt
-* \oddsidemargin=-25.32295pt
-* \evensidemargin=-25.32295pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
 * \topmargin=-70.85878pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -690,58 +690,94 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Warning: No \author given.
 
 
-Overfull \hbox (2.70268pt too wide) in paragraph at lines 52--53
+Overfull \hbox (1.51663pt too wide) in paragraph at lines 45--46
+[]\EU1/TimesNewRoman(0)/m/n/12 Мы устверждаем, что в существуют рынки на которы
+х присутствует сразу несколько игроков
+ []
+
+
+Overfull \hbox (23.6581pt too wide) in paragraph at lines 55--57
+\EU1/TimesNewRoman(0)/m/n/12 очевидно, что на них будет наблюдаться тенденция к
+ понижению зароботной платы. Мы рассмотрим
+ []
+
+
+Overfull \hbox (3.85pt too wide) in paragraph at lines 55--57
+\EU1/TimesNewRoman(0)/m/n/12 модель олигпсонического рынка труда в рамках котор
+ой у профессора будет выбор либо остаться
+ []
+
+
+Overfull \hbox (6.89102pt too wide) in paragraph at lines 55--57
+\EU1/TimesNewRoman(0)/m/n/12 Модель будет строится на основе модели монопсониче
+ского рынка из статьи Seniority and Monop-
+ []
+
+
+Overfull \hbox (41.33202pt too wide) in paragraph at lines 58--59
 []\EU1/TimesNewRoman(0)/m/n/12 Пусть существует рынок в рамках одного города, г
 де присутствует $\OML/cmm/m/it/12 n$ \EU1/TimesNewRoman(0)/m/n/12 университетов
- одного уровня,
+, предъявляющие
  []
 
 
-Overfull \hbox (20.89204pt too wide) in paragraph at lines 52--53
-\EU1/TimesNewRoman(0)/m/n/12 копи паст) (Возможно вставить сначала предпосылки 
-относительно поведения профессора). Университет
- []
-
-LaTeX Font Info:    Try loading font information for U+dsrom on input line 58.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/doublestroke/Udsrom.fd
-File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
-)
-Overfull \hbox (1.025pt too wide) in paragraph at lines 59--61
-\EU1/TimesNewRoman(0)/m/n/12 осонованное на ненаблюдаемых нами факторах, а след
-овательно на статистическом уровне мы можем
+Overfull \hbox (6.69342pt too wide) in paragraph at lines 58--59
+\EU1/TimesNewRoman(0)/m/n/12 сильно отличает академический рынок труда от многи
+х других (неплохо бы ссылку). В следствии
  []
 
 
-Overfull \hbox (4.96492pt too wide) in paragraph at lines 64--65
-[]\EU1/TimesNewRoman(0)/m/n/12 Проанализируем поведение олигополистов на рынке.
- Мы будем предполагать, что они не вступают
+Overfull \hbox (15.87619pt too wide) in paragraph at lines 58--59
+\EU1/TimesNewRoman(0)/m/n/12 этого, каждый университет выбирает какую зарплату 
+предложить отдельно для каждого работника.
  []
 
 
-Overfull \hbox (16.70729pt too wide) in paragraph at lines 64--65
-\EU1/TimesNewRoman(0)/m/n/12 в сговор. Если бы они вступили в сговор, то для ка
-ждого конкретного профессора ситуация привратилась
+Overfull \hbox (37.06448pt too wide) in paragraph at lines 63--64
+\EU1/TimesNewRoman(0)/m/n/12 распределение, случайным исходом для которой будет
+ являться выбор, который сделает преподаватель.
  []
 
 [1
 
 ]
-Overfull \hbox (13.42929pt too wide) in paragraph at lines 66--67
-\EU1/TimesNewRoman(0)/m/n/12 рыночной ценой с вероятностью 1, соответсвенно в с
-имметричном равновесии вузы должны установить
+LaTeX Font Info:    Try loading font information for U+dsrom on input line 65.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/doublestroke/Udsrom.fd
+File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
+)
+Overfull \hbox (7.61172pt too wide) in paragraph at lines 66--68
+\EU1/TimesNewRoman(0)/m/n/12 Профессор сравнивает предложенную ему зарплату нек
+оторым университетом с зарплатой рынка
  []
 
 
-Overfull \hbox (14.99457pt too wide) in paragraph at lines 66--67
-\EU1/TimesNewRoman(0)/m/n/12 одинаковую зарплату. И должно быть выполнено следу
-ющее условие для каждого конкретного учебного
+Overfull \hbox (19.67776pt too wide) in paragraph at lines 66--68
+\EU1/TimesNewRoman(0)/m/n/12 максимальной цены, преподаватель будет рассматрива
+ть лишь тот университет, который предложил
+ []
+
+
+Overfull \hbox (38.23221pt too wide) detected at line 76
+\OML/cmm/m/it/12 p[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 w[] \OMS/cmsy/m/n/12 ^^@ 
+\OML/cmm/m/it/12 w[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 ^^Nm\OT1/cmr/m/n/12 )\O
+ML/cmm/m/it/12 w[] \OT1/cmr/m/n/12 + (1 \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 p
+[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 w[] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 w
+[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 ^^Nm\OT1/cmr/m/n/12 ))\OML/cmm/m/it/12 w[
+] \OT1/cmr/m/n/12 = [] + (1 \OMS/cmsy/m/n/12 ^^@ []\OT1/cmr/m/n/12 )\OML/cmm/m/
+it/12 w[] \OMS/cmsy/m/n/12 ^^T \OML/cmm/m/it/12 w[]
+ []
+
+
+Overfull \hbox (29.22855pt too wide) in paragraph at lines 86--87
+\EU1/TimesNewRoman(0)/m/n/12 труда, следовательно на данных мы ожидаем увидеть 
+не противоположный эффект, как в предыдущих
  []
 
 [2] (./inst_proj.aux) ) 
 Here is how much of TeX's memory you used:
  16070 strings out of 493706
  321651 string characters out of 6145769
- 352512 words of memory out of 5000000
+ 353506 words of memory out of 5000000
  19280 multiletter control sequences out of 15000+600000
  11340 words of font info for 67 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
