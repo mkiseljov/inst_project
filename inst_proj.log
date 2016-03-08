@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.10.6)  8 MAR 2016 16:29
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.10.6)  8 MAR 2016 20:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -767,12 +767,24 @@ it/12 w[] \OMS/cmsy/m/n/12 ^^T \OML/cmm/m/it/12 w[]
  []
 
 
-Overfull \hbox (29.22855pt too wide) in paragraph at lines 87--88
-\EU1/TimesNewRoman(0)/m/n/12 труда, следовательно на данных мы ожидаем увидеть 
-не противоположный эффект, как в предыдущих
+Overfull \hbox (45.6633pt too wide) in paragraph at lines 77--80
+\EU1/TimesNewRoman(0)/m/n/12 Это уравнение означает, что конкретному ВУЗу не вы
+годно повысить зарплату на любую положительную
  []
 
-[3] (./inst_proj.aux) ) 
+
+Overfull \hbox (6.12892pt too wide) in paragraph at lines 91--92
+[]\EU1/TimesNewRoman(0)/m/n/12 В динамике мы получили, что эффект понижения зар
+плат на таких рынках будет наблюдаться,
+ []
+
+
+Overfull \hbox (2.71683pt too wide) in paragraph at lines 91--92
+\EU1/TimesNewRoman(0)/m/n/12 только теперь он будет слабее, чем на рынках, где 
+лишь один университет определенного уровня. 
+ []
+
+[3] [4] (./inst_proj.aux) ) 
 Here is how much of TeX's memory you used:
  16070 strings out of 493706
  321651 string characters out of 6145769
@@ -782,4 +794,4 @@ Here is how much of TeX's memory you used:
  1328 hyphenation exceptions out of 8191
  48i,6n,61p,10387b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on inst_proj.pdf (3 pages).
+Output written on inst_proj.pdf (4 pages).
