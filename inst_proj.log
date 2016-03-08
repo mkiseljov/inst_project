@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.10.6)  6 MAR 2016 13:20
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.10.6)  8 MAR 2016 16:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -555,26 +555,26 @@ Package: amsthm 2015/03/04 v2.20.2
 (./inst_proj.aux)
 \openout1 = `inst_proj.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 39.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 40.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 40.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    ... okay on input line 40.
 
 *** you should *not* be loading the inputenc package
 *** XeTeX expects the source to be in UTF8 encoding
@@ -586,63 +586,63 @@ LaTeX Font Info:    ... okay on input line 39.
 .................................................
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 39.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 39.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 39.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 39.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 39.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 39.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 39.
-LaTeX Font Info:    Redeclaring math accent \check on input line 39.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 39.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 39.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 39.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 39.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 40.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 40.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 40.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 40.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 40.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 40.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 40.
+LaTeX Font Info:    Redeclaring math accent \check on input line 40.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 40.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 40.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 40.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 40.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 40.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 39.
+(Font)              `operators' in the math version `normal' on input line 40.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/TimesNewRoman(0)/m/n on input line 
-39.
+40.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 39.
+(Font)              `operators' in the math version `bold' on input line 40.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/TimesNewRoman(0)/m/n on input line
- 39.
+ 40.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  EU1/TimesNewRoman(0)/m/n --> EU1/TimesNewRoman(0)/m/n o
-n input line 39.
+n input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> EU1/TimesNewRoman(0)/m/it on input lin
-e 39.
+e 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> EU1/TimesNewRoman(0)/bx/n on input lin
-e 39.
+e 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 39.
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 39.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 40.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  EU1/TimesNewRoman(0)/m/n --> EU1/TimesNewRoman(0)/bx/n 
-on input line 39.
+on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> EU1/TimesNewRoman(0)/bx/it on input l
-ine 39.
+ine 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 39.
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 40.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 39.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 40.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -677,11 +677,11 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 40.
+LaTeX Font Info:    Try loading font information for U+msa on input line 41.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 40.
+LaTeX Font Info:    Try loading font information for U+msb on input line 41.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -690,74 +690,73 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Warning: No \author given.
 
 
-Overfull \hbox (1.51663pt too wide) in paragraph at lines 45--46
+Overfull \hbox (1.51663pt too wide) in paragraph at lines 46--47
 []\EU1/TimesNewRoman(0)/m/n/12 Мы устверждаем, что в существуют рынки на которы
 х присутствует сразу несколько игроков
  []
 
 
-Overfull \hbox (23.6581pt too wide) in paragraph at lines 55--57
+Overfull \hbox (23.6581pt too wide) in paragraph at lines 56--58
 \EU1/TimesNewRoman(0)/m/n/12 очевидно, что на них будет наблюдаться тенденция к
  понижению зароботной платы. Мы рассмотрим
  []
 
 
-Overfull \hbox (3.85pt too wide) in paragraph at lines 55--57
+Overfull \hbox (3.85pt too wide) in paragraph at lines 56--58
 \EU1/TimesNewRoman(0)/m/n/12 модель олигпсонического рынка труда в рамках котор
 ой у профессора будет выбор либо остаться
  []
 
 
-Overfull \hbox (6.89102pt too wide) in paragraph at lines 55--57
+Overfull \hbox (6.89102pt too wide) in paragraph at lines 56--58
 \EU1/TimesNewRoman(0)/m/n/12 Модель будет строится на основе модели монопсониче
 ского рынка из статьи Seniority and Monop-
  []
 
 
-Overfull \hbox (41.33202pt too wide) in paragraph at lines 58--59
+Overfull \hbox (41.33202pt too wide) in paragraph at lines 59--60
 []\EU1/TimesNewRoman(0)/m/n/12 Пусть существует рынок в рамках одного города, г
 де присутствует $\OML/cmm/m/it/12 n$ \EU1/TimesNewRoman(0)/m/n/12 университетов
 , предъявляющие
  []
 
 
-Overfull \hbox (6.69342pt too wide) in paragraph at lines 58--59
+Overfull \hbox (6.69342pt too wide) in paragraph at lines 59--60
 \EU1/TimesNewRoman(0)/m/n/12 сильно отличает академический рынок труда от многи
 х других (неплохо бы ссылку). В следствии
  []
 
 
-Overfull \hbox (15.87619pt too wide) in paragraph at lines 58--59
+Overfull \hbox (15.87619pt too wide) in paragraph at lines 59--60
 \EU1/TimesNewRoman(0)/m/n/12 этого, каждый университет выбирает какую зарплату 
 предложить отдельно для каждого работника.
- []
-
-
-Overfull \hbox (37.06448pt too wide) in paragraph at lines 63--64
-\EU1/TimesNewRoman(0)/m/n/12 распределение, случайным исходом для которой будет
- являться выбор, который сделает преподаватель.
  []
 
 [1
 
 ]
-LaTeX Font Info:    Try loading font information for U+dsrom on input line 65.
- (/usr/local/texlive/2015/texmf-dist/tex/latex/doublestroke/Udsrom.fd
+Overfull \hbox (37.06448pt too wide) in paragraph at lines 64--65
+\EU1/TimesNewRoman(0)/m/n/12 распределение, случайным исходом для которой будет
+ являться выбор, который сделает преподаватель.
+ []
+
+LaTeX Font Info:    Try loading font information for U+dsrom on input line 66.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/doublestroke/Udsrom.fd
 File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
 )
-Overfull \hbox (7.61172pt too wide) in paragraph at lines 66--68
+Overfull \hbox (7.61172pt too wide) in paragraph at lines 67--69
 \EU1/TimesNewRoman(0)/m/n/12 Профессор сравнивает предложенную ему зарплату нек
 оторым университетом с зарплатой рынка
  []
 
 
-Overfull \hbox (19.67776pt too wide) in paragraph at lines 66--68
+Overfull \hbox (19.67776pt too wide) in paragraph at lines 67--69
 \EU1/TimesNewRoman(0)/m/n/12 максимальной цены, преподаватель будет рассматрива
 ть лишь тот университет, который предложил
  []
 
-
-Overfull \hbox (38.23221pt too wide) detected at line 76
+[2]
+Overfull \hbox (38.23221pt too wide) detected at line 77
 \OML/cmm/m/it/12 p[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 w[] \OMS/cmsy/m/n/12 ^^@ 
 \OML/cmm/m/it/12 w[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 ^^Nm\OT1/cmr/m/n/12 )\O
 ML/cmm/m/it/12 w[] \OT1/cmr/m/n/12 + (1 \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 p
@@ -768,19 +767,19 @@ it/12 w[] \OMS/cmsy/m/n/12 ^^T \OML/cmm/m/it/12 w[]
  []
 
 
-Overfull \hbox (29.22855pt too wide) in paragraph at lines 86--87
+Overfull \hbox (29.22855pt too wide) in paragraph at lines 87--88
 \EU1/TimesNewRoman(0)/m/n/12 труда, следовательно на данных мы ожидаем увидеть 
 не противоположный эффект, как в предыдущих
  []
 
-[2] (./inst_proj.aux) ) 
+[3] (./inst_proj.aux) ) 
 Here is how much of TeX's memory you used:
  16070 strings out of 493706
  321651 string characters out of 6145769
- 353506 words of memory out of 5000000
+ 352510 words of memory out of 5000000
  19280 multiletter control sequences out of 15000+600000
  11340 words of font info for 67 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  48i,6n,61p,10387b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on inst_proj.pdf (2 pages).
+Output written on inst_proj.pdf (3 pages).
